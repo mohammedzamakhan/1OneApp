@@ -131,7 +131,7 @@
     "lodash-es": "^4.17.4",
     "rxjs": "5.1.1",
     "sw-toolbox": "3.4.0",
-    "zone.js": "0.8.4"
+    "zone.js": "0.15.0"
   },
   "devDependencies": {
     "@angular/language-service": "4.0.0",
